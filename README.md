@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="1600" height="500" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
-<h3 align="center">A skilled problem solver and software engineer from India, proficient in frontend (HTML, CSS, JavaScript) and backend (Node.js, Express.js) technologies, with a strong foundation in Data Structures and Algorithms (DSA).</h3>
+<h3 align="center">A skilled problem solver and software engineer from India, proficient in frontend technologies (HTML, CSS, JavaScript, React, Next.js) and backend development (Node.js, Express.js, C#, .NET). Experienced in database management with MongoDB and PostgreSQL, with a strong foundation in Data Structures and Algorithms (DSA), system design, and real-time application development.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
@@ -8,13 +8,7 @@
 
 - 🔭 I’m currently working on **Streamers**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Sparrow**
-
-- 🤝 I’m looking for help with **Sparrow**
-
-- 👨‍💻 All of my projects are available at [https://vipinyadavz.github.io/PORTFOLIO/](https://vipinyadavz.github.io/PORTFOLIO/)
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
