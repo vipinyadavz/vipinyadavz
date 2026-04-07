@@ -1,6 +1,32 @@
 <img align="right" alt="coding" width="1600" height="500" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <h1 align="center">Hi 👋, I'm Vipin Yadav</h1>
-<h3 align="center">A skilled problem solver and software engineer from India, proficient in frontend technologies (HTML, CSS, JavaScript, React, Next.js) and backend development (Node.js, Express.js, C#, .NET). Experienced in database management with MongoDB and PostgreSQL, with a strong foundation in Data Structures and Algorithms (DSA), system design, and real-time application development.</h3>
+<h3 align="center">
+  Software Development Engineer | Distributed Systems & High-Scale Architecture
+</h3>
+
+<p align="center">
+  I architect resilient backend systems designed for scale and high availability. Currently engineering distributed systems at <b>Brick&Bolt</b> using <b>Java, Spring Boot, and Kafka</b>, with a focus on process orchestration and microservices reliability.
+</p>
+
+<p align="center">
+  <b>🚀 High-Impact Engineering:</b>
+  <br>
+  • <b>Distributed Systems:</b> Architected <b>Redis/Lua</b> locking mechanisms, reducing DB contention by 40%.
+  <br>
+  • <b>Reliability:</b> Engineered fault-tolerant <b>Kafka</b> consumers achieving 99.99% message reliability.
+  <br>
+  • <b>Optimization:</b> Accelerated system throughput by 30% through <b>PostgreSQL/PostGIS</b> query tuning at Mappls.
+  <br>
+  • <b>Security:</b> Fortified API Gateways with <b>Stateless JWT/RBAC</b>, reducing attack surfaces by 90%.
+</p>
+
+<p align="center">
+  <b>🛠️ Tech Stack:</b> Java • Spring Boot • Kafka • Redis • PostgreSQL • Camunda BPM • Node.js • React
+</p>
+
+<p align="center">
+  🧠 <b>1200+ DSA Problems Solved</b> | Deeply obsessed with <b>p99 latency</b> and <b>Idempotency</b>.
+</p>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
