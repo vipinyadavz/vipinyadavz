@@ -29,19 +29,25 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinyadavz&label=Profile%20views&color=0e75b6&style=flat" alt="vipinyadavz" /> </p>
+<hr>
 
-- 🔭 I’m currently working on **Streamers**
+### 🚀 Technical Overview
 
-- 🌱 I’m currently learning **Nextjs**
+- 🔭 **Currently working on:** Orchestrating high-scale **Distributed Systems** and **BPMN-driven microservices** at **Brick&Bolt**.
+- 🌱 **Engineering Focus:** Deep-diving into **System Design (HLD/LLD)**, **Kafka event-streams**, and **Redis caching strategies**.
+- 🛠️ **Tech Stack:** Java (Expert), Spring Boot, Apache Kafka, Redis, Camunda BPM, PostgreSQL, Node.js.
+- 💬 **Ask me about:** Data Structures & Algorithms, **Microservices Architecture**, and **Geospatial Optimization (PostGIS)**.
+- 📫 **How to reach me:** [vipinyadav1672000@gmail.com](mailto:vipinyadav1672000@gmail.com)
+- 📄 **Know about my experiences:** [View My Resume Portfolio](https://drive.google.com/drive/folders/1L0qbLa_FxKgSI2jwm7BQYEMs58A7-IdN?usp=sharing)
+- ⚡ **Fun fact:** I believe every problem is a 1-line Lua script away from being solved. (And yes, I think I am funny).
 
-- 💬 Ask me about **Data Structures and Algorithms**
+<hr>
 
-- 📫 How to reach me **vipinyadav1672000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1L0qbLa_FxKgSI2jwm7BQYEMs58A7-IdN?usp=sharing](https://drive.google.com/drive/folders/1L0qbLa_FxKgSI2jwm7BQYEMs58A7-IdN?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny.**
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipinyadavz&show_icons=true&theme=tokyonight" alt="Vipin's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadavz&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
