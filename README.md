@@ -43,11 +43,6 @@
 
 <hr>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipinyadavz&show_icons=true&theme=tokyonight" alt="Vipin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinyadavz&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
